@@ -20,7 +20,3 @@ for the redux use this both command	npm install @reduxjs/toolkit		 npm install r
 
 ----------------------------------------------BACKEND----------------------------------------------------------
 
-DB ID & PASSWORD
-ithink00991_db_user
-ip04x9cyRjtIrXC5
-mongodb+srv://ithink00991_db_user:ip04x9cyRjtIrXC5@cluster0.mgkiuwu.mongodb.net/
